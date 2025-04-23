@@ -4,17 +4,17 @@
 This end-to-end data analysis project demonstrates how to transform raw sales data into actionable business insights using Power BI. Based on the Codebasics tutorial series, this project covers data cleaning, ETL processes, SQL analysis, and interactive dashboard creation for a computer hardware business.
 
 # Tools & Technologies
-Power BI - Data visualization and dashboarding
-MySQL - Database management
-SQL - Data querying and analysis
+Power BI - Data visualization and dashboarding,
+MySQL - Database management,
+SQL - Data querying and analysis,
 Power Query - Data transformation and cleaning
 
 # Dataset
 The dataset contains sales records from 2017-2020 with the following tables:
-Customers
-Transactions
-Markets
-Products
+Customers,
+Transactions,
+Markets,
+Products,
 Date
 
 # Project Steps
