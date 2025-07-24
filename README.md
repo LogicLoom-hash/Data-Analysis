@@ -1,7 +1,7 @@
 # Sales Insights Data Analysis Project
 
 # Project Overview
-This end-to-end data analysis project demonstrates how to transform raw sales data into actionable business insights using Power BI. Based on the Codebasics tutorial series, this project covers data cleaning, ETL processes, SQL analysis, and interactive dashboard creation for a computer hardware business.
+This end-to-end data analysis project demonstrates how I transformed raw sales data into actionable business insights using Power BI. In this project, I performed data cleaning, ETL processes, SQL analysis, and interactive dashboard creation for a computer hardware business.
 
 # Tools & Technologies
 Power BI - Data visualization and dashboarding,
